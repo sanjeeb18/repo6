@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2A2C-6057
+
+ Directory of C:\Users\DELL\Desktop\github
+
+06-09-2018  17:53    <DIR>          .
+06-09-2018  17:53    <DIR>          ..
+06-09-2018  17:44                23 index.html
+06-09-2018  17:53                 0 test2.txt
+06-09-2018  17:44                 6 text1.test
+               3 File(s)             29 bytes
+               2 Dir(s)  763,875,115,008 bytes free
